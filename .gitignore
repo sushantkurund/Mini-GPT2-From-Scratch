@@ -14,8 +14,9 @@ frontend/node_modules/
 .DS_Store
 Thumbs.db
 
-# Model checkpoints (optional if large)
+# Model checkpoints
 checkpoints/*.pth
+!checkpoints/model.pth
 checkpoints/*.pt
 
 # Logs
