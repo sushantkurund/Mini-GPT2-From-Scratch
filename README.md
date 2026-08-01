@@ -18,7 +18,7 @@ This project was developed as part of the **Celebal Technologies AI Internship P
 
 **Streamlit App**
 
-> https://YOUR-STREAMLIT-LINK.streamlit.app
+> [https://YOUR-STREAMLIT-LINK.streamlit.app](https://mini-gpt2-from-scratch-tnrl9jkbt2wezmulxcvkdn.streamlit.app/)
 
 **GitHub Repository**
 
